@@ -1,0 +1,16 @@
+input[type=text]{
+	border:1px solid green;
+	border-radius: 5px;
+	color:red;
+	font-weight: regular;
+}
+
+textarea {
+	color: black;
+}
+
+input[type=email]{
+	border:1px solid green;
+	border-radius: 5px;
+	color:green;
+	font-weight: regular;
